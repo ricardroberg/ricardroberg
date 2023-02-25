@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I´ve got my first computer at age 11 and it was my first contact with the Basic programming language. But I started working with Dev only from 2021 onwards.
 
 ##
-<div style="display: inline_block"><br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div style="border: 2px solid red"><br>
+<a href="https://github.com/anuraghazra/github-readme-stats" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<div style="display: flex;
-    justify-content: space-around;
-    margin-top: 2rem;"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Ricard-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ricard-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ricard-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
