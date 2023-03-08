@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Ricard-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricard-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ricard-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px" src="https://user-images.githubusercontent.com/47563670/221366337-1922154b-fab9-450e-b0a8-d0a0b4dbc172.png">
 </div>
 
