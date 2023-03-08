@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 
 ##
 
-<div style="border: 2px solid red"><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats" >
+<div style="display: flex; justify-content: center; padding: 50px;"><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats" >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardroberg&show_icons=true&theme=transparent" />
   </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardroberg&theme=transparent" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardroberg&theme=transparent&layout=compact&langs_count=6" />
   </a>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; justify-content: center"><br>
   <img align="center" alt="Ricard-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ricard-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ricard-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
