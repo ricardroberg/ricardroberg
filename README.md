@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ##
 
 <div style="display: flex; justify-content: center; padding: 50px;"><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats" >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/anuraghazra/github-readme-stats" >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardroberg&show_icons=true&theme=transparent" />
   </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/anuraghazra/convoychat">
