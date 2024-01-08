@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Front-end Dev, migrating to Full Stack
 - 🌱 I'm currently learning React JS, Typescript and doing minor works in Java
 - 👯 I've also learned a little bit of Python and Django (A long time ago...)
-- I'm currently studying Computer Science
+- 📖 I'm currently studying Computer Science
 - ⚡ Fun fact: I´ve got my first computer at age 11 and it was my first contact with the Basic programming language. But I started working with Dev only from 2021 onwards.
 
 ##
